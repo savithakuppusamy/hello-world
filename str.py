@@ -1,0 +1,1 @@
+print ('savitha'[::-1])
