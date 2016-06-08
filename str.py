@@ -1,1 +1,1 @@
-print ('savitha'[::-1])
+print ('range'[::-1])
